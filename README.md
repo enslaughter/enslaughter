@@ -32,7 +32,7 @@ I can be contacted directly at enslaugh@gmail.com
 
 Outside of programming and development, I spend a lot of time working on my own creative writing. I always used to get lost in books as a kid and I never grew out of it. I have just started reading the Malazan series of novels. 
 
-I also love to cook and bake! My favourite savory dish to make is a classic chicken pot pie, and my favorite dessert are some nice fudgy brownies. I recently came into possession of Claire Saffitz's "Dessert Person" book and I've been enjoying the recipes I've made so far from it. 
+I also love to cook and bake! My favourite savory dish to make is a classic chicken pot pie, and my favorite dessert is a nice fudgy brownie. I recently came into possession of Claire Saffitz's "Dessert Person" book and I've been enjoying the recipes I've made so far from it. 
 
 
 
