@@ -2,11 +2,11 @@
 
 I'm a frontend web developer located in Kingston, Ontario. I've completed many React-based frontend projects on my own time and am always looking to expand my skillset. I work meticulously to produce clean-looking websites that still have all the expected functionality for a smooth user experience. As well as keeping the project visually modern, I have been honing my software engineering skills to ensure that my code is robust, modular, and extensible. 
 
-## My work experience
+## My professional web development
 
 At my last company, Wrk, I grew considerably as a developer over the 2+ years working there. While my specialization was still in frontend, I was frequently required to be flexible enough to work in areas of development I had limited experience in. Despite the challenge, I was very successful in completing my work and learned plenty of new skills along the way. Skills such as SQL database management and Luigi tasks, Python APIs/Views, and how to perform devops tasks in Kubernetes/GCP. I was also given projects with large amounts of responsibility placed on myself that were delivered successfully and greatly improved the experience for our userbase. 
 
-## My work
+## My personal web development
 
 My currently featured portfolio is centered around websites and web apps from when I was teaching myself web development. My featured respositories are some of my personal favorites in terms of combining user interface and user-friendly functionality. A more detailed look at my featured work can be found on my personal website. My framework of choice is React, and I have experience in using git version control, npm, cygwin, as well as more specialized tools like Postman for API testing. I have a bit of web configuration experience, and learned how to deploy a website independently including handling the domain registration and DNS setup. 
 
