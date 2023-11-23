@@ -1,16 +1,18 @@
 # Hi there! I'm Eli Slaughter 
 
-I'm a frontend web developer located in Waterloo, Ontario. I'm self taught and have been developing a number of projects to hone my skills. I work diligently to produce clean-looking websites that still have all the expected functionality for a smooth user experience. As well as keeping the project visually modern, I have been developing my software engineering skills to ensure that my code is robust, re-useable, and easily readable. 
+I'm a frontend web developer located in Kingston, Ontario. I've completed many React-based frontend projects on my own time and am always looking to expand my skillset. I work meticulously to produce clean-looking websites that still have all the expected functionality for a smooth user experience. As well as keeping the project visually modern, I have been honing my software engineering skills to ensure that my code is robust, modular, and extensible. 
+
+## My work experience
+
+At my last company, Wrk, I grew considerably as a developer over the 2+ years working there. While my specialization was still in frontend, I was frequently required to be flexible enough to work in areas of development I had limited experience in. Despite the challenge, I was very successful in completing my work and learned plenty of new skills along the way. Skills such as SQL database management and Luigi tasks, Python APIs/Views, and how to perform devops tasks in Kubernetes/GCP. I was also given projects with large amounts of responsibility placed on myself that were delivered successfully and greatly improved the experience for our userbase. 
 
 ## My work
 
-My currently featured portfolio is centered around websites and web apps. My featured respositories are some of my personal favorites in terms of combining user interface and user-friendly functionality. A more detailed look at my featured work can be found on my personal website. My framework of choice is React, and I have experience in using git version control, npm, cygwin, as well as more specialized tools like Postman for API testing. I have a bit of experience in backend development with heroku deployments, and learned how to deploy a website independently including handling the domain registration and DNS setup. 
+My currently featured portfolio is centered around websites and web apps from when I was teaching myself web development. My featured respositories are some of my personal favorites in terms of combining user interface and user-friendly functionality. A more detailed look at my featured work can be found on my personal website. My framework of choice is React, and I have experience in using git version control, npm, cygwin, as well as more specialized tools like Postman for API testing. I have a bit of web configuration experience, and learned how to deploy a website independently including handling the domain registration and DNS setup. 
 
 ## What I'm working on
 
-Now that I've established a solid foundation for my HTML/CSS/JS skills, I've been branching out into more advanced concepts of web development. I've been teaching myself data structures and algorithms, as well as design principles and strategies to produce cleaner project code. I've been making the move from Javascript to Typescript, and have been learning how to write tests with Jest to further ensure that my code is stable and robust. I recently received a Raspberry Pi as a gift, and have been using it to learn how to use UNIX.
-
-Aside from my own learning, I have been working on some more projects to fully round-out my portfolio. My latest project is to port my [pomodoro app](https://ens-pomodoro-app.vercel.app/) to an electron app, so that I can use it with my Raspberry Pi's touch screen.
+Now that I've established a solid foundation for my frontend skills, I've been branching out into more advanced concepts of web development. I've been teaching myself design principles and strategies to produce cleaner project code. I've been practicing how to design components and archtecture for re-usability and readability, and have been learning how to write more comprehensive tests with Jest to further ensure that my code is stable and robust.
 
 ## Open for Opportunities
 
@@ -18,9 +20,7 @@ If you've had a look at my profile and like my work, I'm available for hire. Alt
 
 ## Contact
 
-I can be contacted in the following ways. If you wish to contact me via phone, please message me first and we can arrange something.
-
-[My Twitter](https://twitter.com/enslaugh)
+My professional social media is my Linkedin profile, as listed below. If you wish to contact me via phone, please message me first and we can arrange a call.
 
 [My Linkedin](https://www.linkedin.com/in/eli-slaughter-86b8a550/)
 
