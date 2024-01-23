@@ -1,10 +1,10 @@
 # Hi there! I'm Eli Slaughter 
 
-I'm a frontend web developer located in Kingston, Ontario. I've completed many React-based frontend projects on my own time and am always looking to expand my skillset. I work meticulously to produce clean-looking websites that still have all the expected functionality for a smooth user experience. As well as keeping the project visually modern, I have been honing my software engineering skills to ensure that my code is robust, modular, and extensible. 
+I'm a software engineer located in Kingston, Ontario. I've completed many React-based projects on my own time and am always looking to expand my skillset. I work meticulously to produce clean-looking websites that still have all the expected functionality for a smooth user experience. As well as keeping the project visually modern, I have been honing my software engineering skills to ensure that my code is robust, modular, and extensible. I am also proficient at backend work, ensuring that my code for APIs and data management is efficient and readable. My preferred backend language is Python (with protobuf3 for packaging API data) but I am also experienced with C#.
 
 ## My professional web development
 
-At my last company, Wrk, I grew considerably as a developer over the 2+ years working there. While my specialization was still in frontend, I was frequently required to be flexible enough to work in areas of development I had limited experience in. Despite the challenge, I was very successful in completing my work and learned plenty of new skills along the way. Skills such as SQL database management and Luigi tasks, Python APIs/Views, and how to perform devops tasks in Kubernetes/GCP. I was also given projects with large amounts of responsibility placed on myself that were delivered successfully and greatly improved the experience for our userbase. 
+At my last company, Wrk, I grew considerably as a developer during my time working there. While my specialization was still in frontend, I was frequently required to be flexible enough to work in areas of development I had less experience in. I was very successful in completing my work and learned plenty of new skills along the way. Skills such as SQL database management and Luigi tasks, Python APIs/Views, and how to perform devops tasks in Kubernetes/GCP. I was also given projects with large amounts of responsibility placed on myself that were delivered successfully and greatly improved the experience for our userbase. 
 
 ## My personal web development
 
@@ -12,7 +12,7 @@ My currently featured portfolio is centered around websites and web apps from wh
 
 ## What I'm working on
 
-Now that I've established a solid foundation for my frontend skills, I've been branching out into more advanced concepts of web development. I've been teaching myself design principles and strategies to produce cleaner project code. I've been practicing how to design components and archtecture for re-usability and readability, and have been learning how to write more comprehensive tests with Jest to further ensure that my code is stable and robust.
+Now that I've established a solid foundation for my software engineering skills, I've been branching out into more advanced concepts of web development. I've been teaching myself design principles and strategies to produce cleaner project code. I've been practicing how to design components and archtecture for re-usability and readability, and have been learning how to write more comprehensive tests with Jest to further ensure that my code is stable and robust.
 
 ## Open for Opportunities
 
